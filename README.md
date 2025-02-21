@@ -2,9 +2,6 @@
 
 Nombre: Johiner Alexis Tamayo Camayo - - N°Curso: 611
 
-Link de Taller en GitHub: https://github.com/Geemiiniis/Taller_AplicacionesWeb.git
-
-
 Parte Teórica
 
 1. ¿Qué es HTML y cuál es su función en la web? R//: HTML es el lenguaje que se usa para crear páginas web. Es como el esqueleto de una página, porque organiza todo el contenido: textos, imágenes, botones, enlaces, etc.
